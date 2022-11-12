@@ -1,6 +1,10 @@
-typescript = used
-allRoutes = done
-HTTP method = POST for all routes
-Database = MongoDB
-test(jest) = not able to test
-AWS = not able to use
+<P>typescript = used</P>
+<p>allRoutes = done</p>
+<p>HTTP method = POST for all routes</p>
+<p>Database = MongoDB</p>
+<p>test(jest) = not able to test</p>
+<p>AWS = not able to use</p>
+
+
+
+
